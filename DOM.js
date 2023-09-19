@@ -1,5 +1,5 @@
-const btn = document.querySelector("button");
-const textp = document.body.querySelectorAll(".ptext")
+const btn = document.querySelector('button');
+const textp = document.body.querySelectorAll('.ptext')
 
 function random(number) {
     return Math.floor(Math.random()*(number + 1));
