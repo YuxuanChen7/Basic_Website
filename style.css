@@ -13,10 +13,13 @@
     top: 60px;
     left: 60px;
   }
-
   img {
     float: left;
     width:  400px;
     height: 400px;
     object-fit: cover;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
 }
