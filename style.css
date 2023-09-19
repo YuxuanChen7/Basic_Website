@@ -1,24 +1,4 @@
-/*.image1 {
-    position: relative;
-    top: 0;
-    left: 0;
-  }
-  .image2 {
-    position: absolute;
-    top: 30px;
-    left: 30px;
-  }
-  .image3 {
-    position: absolute;
-    top: 60px;
-    left: 60px;
-  }
-  img {
-    float: left;
-    width:  400px;
-    height: 400px;
-    object-fit: cover;
-}*/
+
 *{
   text-align: center;
 }
