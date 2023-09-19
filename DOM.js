@@ -7,7 +7,7 @@ function random(number) {
 
 btn.addEventListener("click", () => {
     const rndcolor = `rgb(${random(255)},${random(255)},${random(255)})`;
-    pTextElements.forEach((element) => {
+    textp.forEach((element) => {
         element.style.color = rndcolor;
     });
 });
